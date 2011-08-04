@@ -4,7 +4,7 @@ pdfsuccess() {
 }
 
 echo 'Generating LaTeX'
-./resume.py latex programming.res \
+python resume.py latex programming.res \
     --pre_file templates/pre.tex \
     --post_file templates/post.tex \
     --output_file resumes/resume.tex

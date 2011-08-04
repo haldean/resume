@@ -6,7 +6,8 @@ Bachelor of Science in Computer Science
 2008 -- 2012
 
 - *GPA:* 3.677, completed 110 of 124 credits
-- *Planned Courses, Fall 2011:* TODO(haldean)
+- *Planned Courses, Fall 2011:* Circuit Analysis, Cryptography,
+  Computer Animation, Parallel Programming, Astrophysics, Ear Training
 - *Honors:* Dean's List (every semester, 2008 -- present)
 
 -- Antwerp International School --
@@ -40,7 +41,7 @@ May 2011 -- August 2011
 -- Computer Science Department, Columbia University --
 New York, NY
 Teaching Assistant
-January 2011 -- present
+January 2011 -- December 2011
 
 - Teaching assistant for Computer Science Theory, Spring 2011
 - Teaching assistant for Programming in Matlab, Fall 2011
@@ -87,7 +88,7 @@ May 2009 -- present
 
 -- San Mateo Performing Arts Center --
 San Mateo, CA
-Lighting Intern
+Light Design Intern
 May 2008 -- June 2008
 
 == Community Activities ==
@@ -127,7 +128,7 @@ August 2009 -- December 2009
 
 == Skills ==
 | Languages
-| Java, Python, Common Lisp, Scala, C, JavaScript, Mathematica, 
+| Java, Python, Scala, Common Lisp, C, JavaScript, Mathematica, 
 | Matlab, SQL, semantic and accessible HTML4 and HTML5,
 | cross-browser CSS, UNIX shell scripting, LaTeX
 |
@@ -137,6 +138,6 @@ August 2009 -- December 2009
 |
 | Interests
 | Artificial intelligence, functional languages, programming language
-| design and parsing, human-computer interaction, 3D printing and 
+| design and compilation, human-computer interaction, 3D printing and 
 | at-home fabrication, theater lighting and set design, wood- and
 | metal-working
