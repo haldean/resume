@@ -51,14 +51,7 @@ specify the location of a certain position, it could be specified as:
     Date
 
 And if you just wanted to list the name of the organization, you could specify
-it as:
-
-    -- Organization
-    
-    
-    
-
-(Note that that is three blank lines following the organization)
+it as `-- Organization` followed by three blank lines.
 
 
 
