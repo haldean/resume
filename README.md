@@ -53,5 +53,12 @@ specify the location of a certain position, it could be specified as:
 And if you just wanted to list the name of the organization, you could specify
 it as `-- Organization` followed by three blank lines.
 
+To make anything within the text bold, wrap it in asterices, like so:
+
+    -- Organization
+    Location
+    Title
+    Date
+    - \*This is important\*: I got really good grades
 
 
