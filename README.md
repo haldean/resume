@@ -54,8 +54,8 @@ And if you just wanted to list the name of the organization, you could specify
 it as:
 
     -- Organization
-
-
+    
+    
     
 
 (Note that that is three blank lines following the organization)
