@@ -53,12 +53,27 @@ specify the location of a certain position, it could be specified as:
 And if you just wanted to list the name of the organization, you could specify
 it as `-- Organization` followed by three blank lines.
 
-To make anything within the text bold, wrap it in asterices, like so:
+To make anything within the text bold, wrap it in asterisks, and to italicize,
+wrap it in underlines.
 
     -- Organization
     Location
     Title
     Date
     - *This is important*: I got really good grades
+    - I was featured in the _New York Times_
 
+To create a "description", which is essentially a list where each element of the
+list has a title, use the following syntax:
 
+    | First Title
+    | This is the text associated with
+    | the first title.
+    |
+    | Second Title
+    | This is the second block of text, which
+    | is associated with the second title.
+
+Every line must start with a pipe for it to be part of the description. It is
+split using blank lines, and the first line of each chunk is taken to be the
+title of that chunk.
