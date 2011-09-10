@@ -59,6 +59,6 @@ To make anything within the text bold, wrap it in asterices, like so:
     Location
     Title
     Date
-    - \*This is important\*: I got really good grades
+    - &#43;This is important&#43;: I got really good grades
 
 
