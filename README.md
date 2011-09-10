@@ -18,6 +18,24 @@ of the output. This is useful for some output formats, like LaTeX, which don't
 output a complete, valid document; it needs to be wrapped in document tags to be
 valid.
 
+    usage: resume.py [-h] [--pre_file PRE_FILE] [--post_file POST_FILE]
+                     [--output_file OUTPUT_FILE]
+                     format resume
+
+    Generate resumes
+
+    positional arguments:
+      format                Format of resume to generate
+      resume                Resume specification
+
+    optional arguments:
+      -h, --help            show this help message and exit
+      --pre_file PRE_FILE   The file to insert before the generated output
+      --post_file POST_FILE
+                            The file to insert after the generated output
+      --output_file OUTPUT_FILE
+                            The file to write output (if ommited, written to stdout)
+
 Input Format
 ------------
 
