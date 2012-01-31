@@ -1,7 +1,7 @@
 Title: Will Haldean Brown - CV
 Author: Will Haldean Brown
 CSS: resume.css
-HTML header: <link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
+HTML header: <link href="http://fonts.googleapis.com/css?family=Shanti" rel="stylesheet" type="text/css">
 
 # Will Haldean Brown
 [http://haldean.org](http://haldean.org)  

@@ -1,7 +1,7 @@
 @media print {
   body {
     font-size: 9pt;
-    font-family: 'Droid Sans', Helvetica, sans-serif;
+    font-family: 'Shanti', Helvetica, sans-serif;
     -webkit-column-count: 2;
   }
 }
@@ -11,12 +11,11 @@
     background: #002b36;
     color: #93a1a1;
     width: 80%;
-    font-family: 'Droid Sans', Helvetica, sans-serif;
+    font-family: 'Shanti', Helvetica, sans-serif;
     font-size: 11pt;
   }
 
   .columns {
-    padding: 20pt 0;
 
     column-gap: 40pt;
     column-width: 30%;
