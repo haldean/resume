@@ -188,7 +188,8 @@ and metal-working
 </div>
 
 Colors inspired by the [Solarized project][solarized]. HTML generated using
-[MultiMarkdown][markdown].
+[MultiMarkdown][markdown] from [this file][github-resume].
 
 [solarized]:http://ethanschoonover.com/solarized
 [markdown]:http://fletcherpenney.net/multimarkdown/
+[github-resume]:https://raw.github.com/haldean/resume/master/resume.md
