@@ -1,67 +1,74 @@
-body {
-  font-family: 'Droid Sans', Helvetica, sans-serif;
-  font-size: 11pt;
-  background: #002b36;
-  color: #93a1a1;
-  width: 80%;
+@media print {
+  body {
+    font-size: 9pt;
+    font-family: 'Droid Sans', Helvetica, sans-serif;
+    -webkit-column-count: 2;
+  }
 }
 
-.columns {
-  padding: 20pt 0;
+@media screen {
+  body {
+    background: #002b36;
+    color: #93a1a1;
+    width: 80%;
+    font-family: 'Droid Sans', Helvetica, sans-serif;
+    font-size: 11pt;
+  }
 
-  column-gap: 40pt;
-  column-width: 30%;
-  column-count: 3;
-  column-rule: 1px solid #073642;
+  .columns {
+    padding: 20pt 0;
 
-  -webkit-column-gap: 40pt;
-  -webkit-column-width: 30%;
-  -webkit-column-count: 3;
-  -webkit-column-rule: 1px solid #073642;
+    column-gap: 40pt;
+    column-width: 30%;
+    column-count: 3;
+    column-rule: 1px solid #073642;
 
-  /*
-   * This shall be disabled until Firefox has column-break-before behavior that
-   * actually works. */
-  -moz-column-gap: 40pt;
-  -moz-column-width: 30%;
-  -moz-column-count: 3;
-  -moz-column-rule: 1px solid #073642;
-}
+    -webkit-column-gap: 40pt;
+    -webkit-column-width: 30%;
+    -webkit-column-count: 3;
+    -webkit-column-rule: 1px solid #073642;
 
-.column {
-  display: inline-block;
-  width: 100%;
-}
+    -moz-column-gap: 40pt;
+    -moz-column-width: 30%;
+    -moz-column-count: 3;
+    -moz-column-rule: 1px solid #073642;
+  }
 
-li {
-}
+  .column {
+    display: inline-block;
+    width: 100%;
+  }
 
-h1 {
-  color: #cb4b16;
-}
+  li {
+  }
 
-h2 {
-  color: #b58900;
-  -webkit-column-break-before: always;
-  -moz-column-break-before: always;
-  column-break-before: always;
-}
+  h1 {
+    color: #cb4b16;
+  }
 
-h2#education, h2#professionalexperience {
-  -webkit-column-break-before: avoid;
-  -moz-column-break-before: avoid;
-  column-break-before: avoid;
-}
+  h2 {
+    color: #b58900;
+    -webkit-column-break-before: always;
+    -moz-column-break-before: always;
+    column-break-before: always;
+  }
 
-h3 {
-  color: #268bd2;
-}
+  h2#education, h2#professionalexperience {
+    -webkit-column-break-before: avoid;
+    -moz-column-break-before: avoid;
+    column-break-before: avoid;
+  }
 
-a {
-  color: #719e07;
-  text-decoration: none;
-}
+  h3 {
+    color: #268bd2;
+  }
 
-a:hover {
-  color: #859900;
+  a {
+    color: #719e07;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #859900;
+  }
 }
