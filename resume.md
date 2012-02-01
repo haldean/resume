@@ -33,7 +33,7 @@ January 2012 -- May 2012
 ### Computer Science Department, Columbia University ###
 New York, NY  
 Teaching Assistant  
-January 2011 -- December 2011  
+January 2011 -- May 2012  
 
 - Teaching assistant for Computer Science Theory, Spring 2011
 - Teaching assistant for Programming in Matlab, Fall 2011
