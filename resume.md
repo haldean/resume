@@ -126,7 +126,8 @@ September 2011 -- November 2012
 New York, NY  
 Faculty-Advised Independent Project in Computer Science  
 May 2010 -- present  
-[Github Page](https://github.com/haldean/droidcopter)
+[Github Page](https://github.com/haldean/droidcopter), 
+[Report][robocop-paper]
 
 - Worked on a two-person team to desgin, build and program
   a quadricopter capable of stable flight, based on the Android
@@ -139,16 +140,12 @@ May 2010 -- present
   capable of receiving streaming video, displaying sensor data and
   sending flight commands.
 
-- Wrote a paper ([available here online][robocop-paper]) detailing the
-  architecture of our systen and the design of the hardware.
-
-[robocop-paper]:https://github.com/haldean/droidcopter/raw/master/text/spring/essay-spring.pdf
-
 ### Feynstein ###
 New York, NY  
 Systems Integrator and Language Designer  
 January 2011 -- May 2011  
-[Github Page](https://github.com/haldean/feynstein)
+[Github Page](https://github.com/haldean/feynstein), 
+[Report][feynstein-paper]
 
 - Worked on a five-person team advised by Professor Alfred Aho to design and
   implement a programming language for my Programming Languages and Translators
@@ -160,6 +157,9 @@ January 2011 -- May 2011
 
 </div>
 <div class="column" markdown="1">
+
+[feynstein-paper]:https://github.com/haldean/feynstein/blob/master/writeup/report.pdf?raw=true
+[robocop-paper]:https://github.com/haldean/droidcopter/raw/master/text/spring/essay-spring.pdf
 
 ## Skills and Interests ##
 
