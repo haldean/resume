@@ -29,6 +29,8 @@ Undergraduate Researcher
 January 2012 -- May 2012  
 
 - Working with Yotam Gingold, advised by Eitan Grinspun.
+- Created [Annotate23D](https://github.com/haldean/annotate23d), an iPad app for
+  human-friendly 3D modelling using sketches and annotations.
 
 ### Computer Science Department, Columbia University ###
 New York, NY  
