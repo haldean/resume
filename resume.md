@@ -178,9 +178,9 @@ August 2008 -- present
   all off-Broadway shows
 
 ### Programming Languages and Technologies
-Java, Python, Common Lisp, C, C++, Haskell, JavaScript, Mathematica, Matlab,
-SQL, semantic and accessible HTML4 and HTML5, cross-browser CSS, UNIX shell
-scripting, LaTeX
+Python, Java, C, C++, Objective C, Common Lisp, Haskell, JavaScript,
+Mathematica, Matlab, iOS app creation, SQL, semantic and accessible
+HTML4 and HTML5, cross-browser CSS, Bash shell scripting, LaTeX
 
 ### Interests
 Computer graphics and rendering technology, functional languages, cryptography,
