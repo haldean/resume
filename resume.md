@@ -46,9 +46,9 @@ New York, NY
 Teaching Assistant  
 January 2011 -- May 2012  
 
-- Teaching assistant for Computer Science Theory, Spring 2011
-- Teaching assistant for Programming in Matlab, Fall 2011
-- Teaching assistant for Computer Science Theory, Spring 2012
+- Teaching assistant for Computer Science Theory, Professor Tal Malkin, Spring 2011
+- Teaching assistant for Programming in Matlab, Professor Paul Blaer, Fall 2011
+- Teaching assistant for Computer Science Theory, Professor Tal Malkin, Spring 2012
 
 ### University Events Management, Columbia University ###
 New York, NY  
