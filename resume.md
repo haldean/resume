@@ -23,6 +23,13 @@ September 2008 -- May 2012
 
 ## Professional Experience ##
 
+### Google App Engine, Google, Inc. ###
+Sydney, Australia  
+Software Engineer  
+July 2012 -- Present  
+
+- Working on the Full Text Search API for Google App Engine
+
 ### Columbia Computer Graphics Group
 New York, NY  
 Undergraduate Researcher  
@@ -55,29 +62,20 @@ May 2009 -- present
 ### Google, Inc. ###
 New York, NY  
 Software Engineering Intern  
-May 2011 -- August 2011  
+May 2011 -- August 2011, May 2010 -- August 2010  
 
-- Returned to the DoubleClick Reporting team.
-- Implemented two major features -- one involving massively parallel data
-  processing in a MapReduce-type framework, and one involving writing custom
-  HTTP services to export spreadsheets and other reports. Both involved
-  front-end UI changes as well.
+- Two-time Google intern, both times with the DoubleClick Reporting team.
+- Second internship: implemented two major features -- one involving massively
+  parallel data processing in a MapReduce-type framework, and one involving
+  writing custom HTTP services to export spreadsheets and other reports. Both
+  involved front-end UI changes as well.
+- First internship: assisted in designing a new user interface for the
+  DoubleClick Reporting module that included interactive graphs and reduced user
+  interface latency by 50 to 90 percent, then implemented this interface and
+  launched it to a set of beta users.
 - Worked in Java and Python.
-- Handled 13 bugs, including one P1 production bug.
 - Contributed to code quality in the reporting midtier by taking on two large
   refactoring efforts.
-
-### Google, Inc. ###
-New York, NY  
-Software Engineering Intern  
-May 2010 -- August 2010  
-
-- Worked with the DoubleClick Reporting team on front end and back end software
-  in Java.
-- Assisted in designing a new user interface for the DoubleClick Reporting
-  module that included interactive graphs and reduced user interface latency by
-  50 to 90 percent, then implemented this interface and launched it to a set of
-  beta users.
 
 </div>
 <div class="column" markdown="1">
@@ -89,9 +87,35 @@ Code for all personal projects is available
 below represent recent projects, or projects that I think are of particular
 note.
 
+### tasks'
+May 2012 -- present  
+[Github Page](https://github.com/haldean/tasksprime)  
+[URL](http://taskspri.me)  
+
+- tasks' (said "tasks prime") is a bare-bones online task list.
+- Uses the Google Tasks API as a backend.
+- Near ready to launch; soft launch with 50 users was very successful.
+
+### subd
+April 2012 -- July 2012  
+[Github Page](https://github.com/haldean/subd)  
+
+- Created a subdivision surface modeler capable of Loop and Catmull-Clarke
+  Subdivision on arbitrary non-manifold meshes.
+- Wrote a OBJ file parser, allowing subd to work with most available 3D models.
+- Created a powerful user interface, including toggleable cel shading.
+
+### annotate23d
+January 2012 -- May 2012  
+[Github Page](https://github.com/haldean/annotate23d)  
+
+- Created an iOS app which allows the user to sketch primitives, annotate these
+  primitives, and then generate a 3D model.
+- Created as a research project for the Columbia Computer Graphics Group.
+- Uses many iOS graphics technologies, including Quartz, UIKit, GLKit and OpenGL
+  ES.
+
 ### C Virtual Machine
-New York, NY  
-Personal Project  
 December 2011 -- present  
 [Github Page](https://github.com/haldean/cvm)
 
@@ -105,8 +129,6 @@ December 2011 -- present
   an implementation of a subset of libc are currently in progress.
 
 ### sim3d
-New York, NY  
-Personal Project  
 November 2011 -- December 2012  
 [Github Page](https://github.com/haldean/sim3d)
 
@@ -117,8 +139,6 @@ November 2011 -- December 2012
 - Capable of efficiently simulating large multi-body gravitational systems.
 
 ### ArtRay
-New York, NY  
-Personal Project  
 September 2011 -- November 2012  
 [Github Page](https://github.com/haldean/artray)
 
@@ -127,7 +147,6 @@ September 2011 -- November 2012
   depth of field.
 
 ### Robocopter Project ###
-New York, NY  
 Faculty-Advised Independent Project in Computer Science  
 May 2010 -- present  
 [Github Page](https://github.com/haldean/droidcopter), 
@@ -145,7 +164,6 @@ May 2010 -- present
   sending flight commands.
 
 ### Feynstein ###
-New York, NY  
 Systems Integrator and Language Designer  
 January 2011 -- May 2011  
 [Github Page](https://github.com/haldean/feynstein), 
@@ -180,7 +198,8 @@ August 2008 -- present
 ### Programming Languages and Technologies
 Python, Java, C, C++, Objective C, Common Lisp, Haskell, JavaScript,
 Mathematica, Matlab, iOS app creation, SQL, semantic and accessible
-HTML4 and HTML5, cross-browser CSS, Bash shell scripting, LaTeX
+HTML4 and HTML5, cross-browser CSS, Bash shell scripting, LaTeX, Google App
+Engine
 
 ### Interests
 Computer graphics and rendering technology, functional languages, cryptography,
