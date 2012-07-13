@@ -18,8 +18,10 @@ New York, NY
 Bachelor of Science in Computer Science  
 September 2008 -- May 2012
 
-- GPA of 3.66, completed 122 of 124 credits
-- Dean's List 6 semesters (Fall 2008 -- Fall 2011)
+- GPA of 3.61, completed 137 of 124 credits
+- Received Dean's List honors in 6 of 8 semesters
+- 2011-2012 recipient of the Andrew P. Kosoresow Memorial Award for Excellence
+  in Teaching, TA-ing and Service
 
 ## Professional Experience ##
 
@@ -47,8 +49,6 @@ January 2011 -- May 2012
 - Teaching assistant for Computer Science Theory, Spring 2011
 - Teaching assistant for Programming in Matlab, Fall 2011
 - Teaching assistant for Computer Science Theory, Spring 2012
-- The 2011-2012 recipient of the Andrew P. Kosoresow Memorial Award for
-  Excellence in Teaching, TA-ing and Service
 
 ### University Events Management, Columbia University ###
 New York, NY  
