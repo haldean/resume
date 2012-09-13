@@ -1,82 +1,65 @@
-@media print {
-  body {
-    font-size: 9pt;
-    font-family: 'Shanti', Helvetica, sans-serif;
-    -webkit-column-count: 2;
-  }
+body {
+  background: #FFF;
+  color: #000;
+  font-family: Helvetica, sans-serif;
+  font-size: 11pt;
+  margin-left: 50px;
 }
 
-@media screen {
-  body {
-    background: #002b36;
-    color: #93a1a1;
-    width: 80%;
-    font-family: 'Shanti', Helvetica, sans-serif;
-    font-size: 11pt;
-  }
+.column {
+  float: left;
+  clear: none;
+  width: 45%;
+  min-width: 500px;
+  margin-right: 50px;
+}
 
-  .columns {
+li {
+}
 
-    column-gap: 40pt;
-    column-width: 30%;
-    column-count: 3;
-    column-rule: 1px solid #073642;
+h1 {
+  color: #cb4b16;
+  text-transform: uppercase;
+  margin: 0;
+}
 
-    -webkit-column-gap: 40pt;
-    -webkit-column-width: 30%;
-    -webkit-column-count: 3;
-    -webkit-column-rule: 1px solid #073642;
+h2 {
+  color: #b58900;
+  text-transform: uppercase;
+}
 
-    -moz-column-gap: 40pt;
-    -moz-column-width: 30%;
-    -moz-column-count: 3;
-    -moz-column-rule: 1px solid #073642;
-  }
+h3 {
+  color: #268bd2;
+  font-size: 12pt;
+}
 
-  .column {
-    display: inline-block;
-    width: 100%;
-  }
+h1, h2, h3, .info {
+  font-family: 'Stint Ultra Expanded', sans-serif;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
 
-  li {
-  }
+p {
+  margin-top: 0;
+}
 
-  h1 {
-    color: #cb4b16;
-  }
+a {
+  color: #719e07;
+  text-decoration: none;
+}
 
-  h2 {
-    color: #b58900;
-    -webkit-column-break-before: always;
-    -moz-column-break-before: always;
-    column-break-before: always;
-  }
+a:hover {
+  color: #859900;
+}
 
-  h2#education, h2#professionalexperience {
-    -webkit-column-break-before: avoid;
-    -moz-column-break-before: avoid;
-    column-break-before: avoid;
-  }
+.info {
+  -webkit-transform: skewY(-10deg);
+  width: 100%;
+  text-align: center;
+  margin: 150px 0 100px;
+}
 
-  h3 {
-    color: #268bd2;
-  }
-
-  h1, h2, h3 {
-    margin-bottom: 0;
-    padding-bottom: 0;
-  }
-
-  p {
-    margin-top: 0;
-  }
-
-  a {
-    color: #719e07;
-    text-decoration: none;
-  }
-
-  a:hover {
-    color: #859900;
-  }
+.info p {
+  margin: 0;
+  padding: 0;
 }

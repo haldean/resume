@@ -1,14 +1,16 @@
 Title: Will Haldean Brown - CV
 Author: Will Haldean Brown
 CSS: resume.css
-HTML header: <link href="http://fonts.googleapis.com/css?family=Shanti" rel="stylesheet" type="text/css">
+HTML header: <link href="http://fonts.googleapis.com/css?family=Stint+Ultra+Expanded" rel="stylesheet" type="text/css">
 
+<div class="info">
 # Will Haldean Brown
-[http://haldean.org](http://haldean.org)  
-[will.h.brown@gmail.com](mailto:will.h.brown@gmail.com)  
-(320) 584 9293  
+[http://haldean.org](http://haldean.org), 
+[will.h.brown@gmail.com](mailto:will.h.brown@gmail.com), 
++61 4 5067 8907
+# Can make you a thing
+</div>
 
-<div class="columns" markdown="1">
 <div class="column" markdown="1">
 
 ## Education
@@ -87,24 +89,6 @@ Code for all personal projects is available
 below represent recent projects, or projects that I think are of particular
 note.
 
-### tasks'
-May 2012 -- present  
-[Github Page](https://github.com/haldean/tasksprime)  
-[URL](http://taskspri.me)  
-
-- tasks' (said "tasks prime") is a bare-bones online task list.
-- Uses the Google Tasks API as a backend.
-- Near ready to launch; soft launch with 50 users was very successful.
-
-### subd
-April 2012 -- July 2012  
-[Github Page](https://github.com/haldean/subd)  
-
-- Created a subdivision surface modeler capable of Loop and Catmull-Clarke
-  Subdivision on arbitrary non-manifold meshes.
-- Wrote a OBJ file parser, allowing subd to work with most available 3D models.
-- Created a powerful user interface, including toggleable cel shading.
-
 ### annotate23d
 January 2012 -- May 2012  
 [Github Page](https://github.com/haldean/annotate23d)  
@@ -114,19 +98,6 @@ January 2012 -- May 2012
 - Created as a research project for the Columbia Computer Graphics Group.
 - Uses many iOS graphics technologies, including Quartz, UIKit, GLKit and OpenGL
   ES.
-
-### C Virtual Machine
-December 2011 -- present  
-[Github Page](https://github.com/haldean/cvm)
-
-- Created a virtual machine in pure C capable of parsing and executing a very
-  basic bytecode scheme.
-- Created a compiler in Python which compiles C to an intermediate
-  representation of basic instructions, and then translates this IR to the
-  bytecode of the virtual machine.
-- Still very much in development, but notable acheivements include function
-  calling and dynamically allocating memory. Support for floating-point math and
-  an implementation of a subset of libc are currently in progress.
 
 ### sim3d
 November 2011 -- December 2012  
@@ -163,37 +134,7 @@ May 2010 -- present
   capable of receiving streaming video, displaying sensor data and
   sending flight commands.
 
-### Feynstein ###
-Systems Integrator and Language Designer  
-January 2011 -- May 2011  
-[Github Page](https://github.com/haldean/feynstein), 
-[Report][feynstein-paper]
-
-- Worked on a five-person team advised by Professor Alfred Aho to design and
-  implement a programming language for my Programming Languages and Translators
-  course.
-- Created the Feynstein programming language for complex 3D physics simulations.
-- Language compiles down to Java, which then uses a standard library written by
-  my team to perform highly accurate physical simulation.
-- Featured in Professor Aho's showcase of distinctive languages from the course.
-
-</div>
-<div class="column" markdown="1">
-
-[feynstein-paper]:https://github.com/haldean/feynstein/blob/master/writeup/report.pdf?raw=true
-[robocop-paper]:https://github.com/haldean/droidcopter/raw/master/text/spring/essay-spring.pdf
-
 ## Skills and Interests ##
-
-### Student and Off-Broadway Theater ###
-New York, NY  
-Light, Set, Props, Makeup and Sound Design  
-August 2008 -- present  
-
-- Lights, set, props makeup and/or sound for 21 on-campus shows
-- Special effects makeup for _Next Door_, stage crew for
-  _The Boychick Affair_, and sound and props design for _Press Seven_,
-  all off-Broadway shows
 
 ### Programming Languages and Technologies
 Python, Java, C, C++, Objective C, Common Lisp, Haskell, JavaScript,
@@ -208,11 +149,14 @@ printing and at-home fabrication, theater lighting, props and set design, wood-
 and metal-working
 
 </div>
-</div>
 
-Colors inspired by the [Solarized project][solarized]. HTML generated using
-[MultiMarkdown][markdown] from [this file][github-resume].
+<div style="clear:both;" markdown="1">
+  Colors inspired by the [Solarized project][solarized]. HTML generated using
+  [MultiMarkdown][markdown] from [this file][github-resume].
+</div>
 
 [solarized]:http://ethanschoonover.com/solarized
 [markdown]:http://fletcherpenney.net/multimarkdown/
 [github-resume]:https://raw.github.com/haldean/resume/master/resume.md
+[feynstein-paper]:https://github.com/haldean/feynstein/blob/master/writeup/report.pdf?raw=true
+[robocop-paper]:https://github.com/haldean/droidcopter/raw/master/text/spring/essay-spring.pdf
