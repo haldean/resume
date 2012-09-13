@@ -1,7 +1,7 @@
 Title: Will Haldean Brown - CV
 Author: Will Haldean Brown
 CSS: resume.css
-HTML header: <link href="http://fonts.googleapis.com/css?family=Stint+Ultra+Expanded" rel="stylesheet" type="text/css">
+HTML header: <link href="http://fonts.googleapis.com/css?family=Stint+Ultra+Expanded|Open+Sans" rel="stylesheet" type="text/css">
 
 <div class="info">
 # Will Haldean Brown
@@ -16,9 +16,8 @@ HTML header: <link href="http://fonts.googleapis.com/css?family=Stint+Ultra+Expa
 ## Education
 
 ### Columbia University
-New York, NY  
+New York, NY, September 2008 -- May 2012  
 Bachelor of Science in Computer Science  
-September 2008 -- May 2012
 
 - GPA of 3.61, completed 137 of 124 credits
 - Received Dean's List honors in 6 of 8 semesters
@@ -28,43 +27,38 @@ September 2008 -- May 2012
 ## Professional Experience ##
 
 ### Google App Engine, Google, Inc. ###
-Sydney, Australia  
+Sydney, Australia, July 2012 -- Present  
 Software Engineer  
-July 2012 -- Present  
 
 - Working on the Full Text Search API for Google App Engine
 
 ### Columbia Computer Graphics Group
-New York, NY  
+New York, NY, January 2012 -- May 2012  
 Undergraduate Researcher  
-January 2012 -- May 2012  
 
 - Working with Yotam Gingold, advised by Eitan Grinspun.
 - Created [Annotate23D](https://github.com/haldean/annotate23d), an iPad app for
   human-friendly 3D modelling using sketches and annotations.
 
 ### Computer Science Department, Columbia University ###
-New York, NY  
+New York, NY, January 2011 -- May 2012  
 Teaching Assistant  
-January 2011 -- May 2012  
 
 - Teaching assistant for Computer Science Theory, Professor Tal Malkin, Spring 2011
 - Teaching assistant for Programming in Matlab, Professor Paul Blaer, Fall 2011
 - Teaching assistant for Computer Science Theory, Professor Tal Malkin, Spring 2012
 
 ### University Events Management, Columbia University ###
-New York, NY  
+New York, NY, May 2009 -- present  
 Sound and Light Theater Technician  
-May 2009 -- present  
 
 - Light and sound design for up to 6 events per week, working directly
   with clients to determine specifications, them implementing those
   specifications in a very constrained time frame.
 
 ### Google, Inc. ###
-New York, NY  
+New York, NY, May 2011 -- August 2011, May 2010 -- August 2010  
 Software Engineering Intern  
-May 2011 -- August 2011, May 2010 -- August 2010  
 
 - Two-time Google intern, both times with the DoubleClick Reporting team.
 - Second internship: implemented two major features -- one involving massively
@@ -90,7 +84,7 @@ below represent recent projects, or projects that I think are of particular
 note.
 
 ### annotate23d
-January 2012 -- May 2012  
+January 2012 -- May 2012, 
 [Github Page](https://github.com/haldean/annotate23d)  
 
 - Created an iOS app which allows the user to sketch primitives, annotate these
@@ -100,7 +94,7 @@ January 2012 -- May 2012
   ES.
 
 ### sim3d
-November 2011 -- December 2012  
+November 2011 -- December 2012, 
 [Github Page](https://github.com/haldean/sim3d)
 
 - Created a three-dimensional physics simulator in C++ capable of simulating
@@ -110,7 +104,7 @@ November 2011 -- December 2012
 - Capable of efficiently simulating large multi-body gravitational systems.
 
 ### ArtRay
-September 2011 -- November 2012  
+September 2011 -- November 2012, 
 [Github Page](https://github.com/haldean/artray)
 
 - Created a ray tracing renderer in Haskell which supports Phong lighting, ideal
@@ -119,7 +113,7 @@ September 2011 -- November 2012
 
 ### Robocopter Project ###
 Faculty-Advised Independent Project in Computer Science  
-May 2010 -- present  
+May 2010 -- present, 
 [Github Page](https://github.com/haldean/droidcopter), 
 [Report][robocop-paper]
 
@@ -148,11 +142,6 @@ theoretical computer science, programming language design and compilation, 3D
 printing and at-home fabrication, theater lighting, props and set design, wood-
 and metal-working
 
-</div>
-
-<div style="clear:both;" markdown="1">
-  Colors inspired by the [Solarized project][solarized]. HTML generated using
-  [MultiMarkdown][markdown] from [this file][github-resume].
 </div>
 
 [solarized]:http://ethanschoonover.com/solarized

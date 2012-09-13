@@ -1,7 +1,7 @@
 body {
   background: #FFF;
   color: #000;
-  font-family: Helvetica, sans-serif;
+  font-family: 'Open Sans', Helvetica, sans-serif;
   font-size: 11pt;
   margin-left: 50px;
 }
@@ -15,21 +15,20 @@ body {
 }
 
 li {
+  list-style: square;
 }
 
 h1 {
-  color: #cb4b16;
   text-transform: uppercase;
+  text-shadow: 2px 2px 0 #CCC;
   margin: 0;
 }
 
 h2 {
-  color: #b58900;
   text-transform: uppercase;
 }
 
 h3 {
-  color: #268bd2;
   font-size: 12pt;
 }
 
@@ -44,12 +43,13 @@ p {
 }
 
 a {
-  color: #719e07;
+  color: #AAA;
   text-decoration: none;
 }
 
 a:hover {
-  color: #859900;
+  color: #268bd2;
+  text-shadow: 1px 1px 0 #CCC;
 }
 
 .info {
@@ -57,6 +57,10 @@ a:hover {
   width: 100%;
   text-align: center;
   margin: 150px 0 100px;
+}
+
+.info a {
+  text-shadow: 1px 1px 0 #888;
 }
 
 .info p {
