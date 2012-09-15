@@ -54,6 +54,9 @@ a:hover {
 
 .info {
   -webkit-transform: skewY(-10deg);
+  -moz-transform: skewY(-10deg);
+  -o-transform: skewY(-10deg);
+  -ms-transform: skewY(-10deg);
   width: 100%;
   text-align: center;
   margin: 150px 0 100px;
