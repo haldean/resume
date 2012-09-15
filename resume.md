@@ -131,16 +131,16 @@ May 2010 -- present,
 ## Skills and Interests ##
 
 ### Programming Languages and Technologies
-Python, Java, C, C++, Objective C, Common Lisp, Haskell, JavaScript,
-Mathematica, Matlab, iOS app creation, SQL, semantic and accessible
+Python, Go, Java, C, C++, Objective C, Common Lisp, Haskell, JavaScript,
+Mathematica, Matlab, Android and iOS app creation, SQL, semantic and accessible
 HTML4 and HTML5, cross-browser CSS, Bash shell scripting, LaTeX, Google App
 Engine
 
 ### Interests
-Computer graphics and rendering technology, functional languages, cryptography,
-theoretical computer science, programming language design and compilation, 3D
-printing and at-home fabrication, theater lighting, props and set design, wood-
-and metal-working
+Human-computer interfaces, astrophysics, computer graphics and simulation,
+functional languages, cryptography, theoretical computer science, 3D printing
+and at-home fabrication, theater lighting, props and set design, wood- and
+metal-working
 
 </div>
 
