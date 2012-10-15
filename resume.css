@@ -19,8 +19,6 @@ li {
 }
 
 h1 {
-  text-transform: uppercase;
-  text-shadow: 2px 2px 0 #CCC;
   margin: 0;
 }
 
@@ -33,13 +31,17 @@ h3 {
 }
 
 h1, h2, h3, .info {
-  font-family: 'Stint Ultra Expanded', sans-serif;
   margin-bottom: 0;
   padding-bottom: 0;
 }
 
 p {
+  margin: 0;
+}
+
+ul {
   margin-top: 0;
+  margin-bottom: 30px;
 }
 
 a {
@@ -49,24 +51,5 @@ a {
 
 a:hover {
   color: #268bd2;
-  text-shadow: 1px 1px 0 #CCC;
 }
 
-.info {
-  -webkit-transform: skewY(-10deg);
-  -moz-transform: skewY(-10deg);
-  -o-transform: skewY(-10deg);
-  -ms-transform: skewY(-10deg);
-  width: 100%;
-  text-align: center;
-  margin: 150px 0 100px;
-}
-
-.info a {
-  text-shadow: 1px 1px 0 #888;
-}
-
-.info p {
-  margin: 0;
-  padding: 0;
-}

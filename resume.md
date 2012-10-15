@@ -3,13 +3,10 @@ Author: Will Haldean Brown
 CSS: resume.css
 HTML header: <link href="http://fonts.googleapis.com/css?family=Stint+Ultra+Expanded|Open+Sans" rel="stylesheet" type="text/css">
 
-<div class="info">
-# Will Haldean Brown
+# Will Haldean Brown can make you a thing.
 [http://haldean.org](http://haldean.org), 
 [will.h.brown@gmail.com](mailto:will.h.brown@gmail.com), 
 +61 4 5067 8907
-# Can make you a thing
-</div>
 
 <div class="column" markdown="1">
 
@@ -131,16 +128,16 @@ May 2010 -- present,
 ## Skills and Interests ##
 
 ### Programming Languages and Technologies
-Python, Go, Java, C, C++, Objective C, Common Lisp, Haskell, JavaScript,
-Mathematica, Matlab, Android and iOS app creation, SQL, semantic and accessible
+Python, Java, C, C++, Objective C, Common Lisp, Haskell, JavaScript,
+Mathematica, Matlab, iOS app creation, SQL, semantic and accessible
 HTML4 and HTML5, cross-browser CSS, Bash shell scripting, LaTeX, Google App
 Engine
 
 ### Interests
-Human-computer interfaces, astrophysics, computer graphics and simulation,
-functional languages, cryptography, theoretical computer science, 3D printing
-and at-home fabrication, theater lighting, props and set design, wood- and
-metal-working
+Computer graphics and rendering technology, functional languages, cryptography,
+theoretical computer science, programming language design and compilation, 3D
+printing and at-home fabrication, theater lighting, props and set design, wood-
+and metal-working
 
 </div>
 
