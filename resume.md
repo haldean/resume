@@ -6,7 +6,8 @@ HTML header: <link href="http://fonts.googleapis.com/css?family=Stint+Ultra+Expa
 # Will Haldean Brown can make you a thing.
 [http://haldean.org](http://haldean.org), 
 [will.h.brown@gmail.com](mailto:will.h.brown@gmail.com), 
-+61 4 5067 8907
++61 4 5067 8907  
+Recruitment offers without company details will be ignored.
 
 <div class="column" markdown="1">
 
