@@ -7,7 +7,7 @@ HTML header: <link href="http://fonts.googleapis.com/css?family=Stint+Ultra+Expa
 [http://haldean.org](http://haldean.org), 
 [will.h.brown@gmail.com](mailto:will.h.brown@gmail.com), 
 +61 4 5067 8907  
-Recruitment offers without company details will be ignored.
+Recruitment offers without the name of the business will be ignored.
 
 <div class="column" markdown="1">
 
