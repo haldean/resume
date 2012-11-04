@@ -1,55 +1,73 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic|Source+Code+Pro);
+
 body {
-  background: #FFF;
   color: #000;
-  font-family: 'Open Sans', Helvetica, sans-serif;
-  font-size: 11pt;
-  margin-left: 50px;
+  background: #FFF;
+
+  margin: 6em 0 6em 550px;
+  width: 30em;
+
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 12pt;
+  line-height: 1.5;
 }
 
-.column {
-  float: left;
-  clear: none;
-  width: 45%;
-  min-width: 500px;
-  margin-right: 50px;
+h1 { font-size:2.25em;  /* 16x2.25=36 */ }
+h2 { font-size:1.5em;   /* 16x1.5=24 */ }
+h3 { font-size:1.125em; /* 16x1.125=18 */ }
+h4 { font-size:0.875em; /* 16x0.875=14 */ }
+
+header {
+  margin-bottom: 50px;
 }
 
-li {
-  list-style: square;
-}
-
-h1 {
+header h1, header h2 {
   margin: 0;
+  padding: 0;
+  text-align: left;
 }
 
-h2 {
-  text-transform: uppercase;
+div > h2 {
+  text-align: right;
+  position: absolute;
+  left: 0;
+  width: 500px;
+  margin-top: -0.35em;
 }
 
 h3 {
-  font-size: 12pt;
-}
-
-h1, h2, h3, .info {
-  margin-bottom: 0;
-  padding-bottom: 0;
+  margin-top: 2em;
 }
 
 p {
   margin: 0;
-}
-
-ul {
-  margin-top: 0;
-  margin-bottom: 30px;
+  text-align: justify;
+  hyphenate: auto;
+  hyphenate-before:2;
+  hyphenate-after:3;
 }
 
 a {
-  color: #AAA;
+  color: #268bd2;
   text-decoration: none;
 }
 
 a:hover {
-  color: #268bd2;
+  color: #1a6192;
 }
 
+img {
+  float: left;
+  width: 300px;
+  height: 100%;
+  margin: 10px 50px 50px 0;
+}
+
+h3 {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+ul {
+  margin-top: 0;
+}
